@@ -1,64 +1,51 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://thomasandkaren.us
+baseurl: /wedding
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: '#TKWedding'
+email: tk@thomasandkaren.us
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Karen E. Robinson
+  pic: IMG_20170528_164420_square
+  position: The Smart One
   social:
     - title: twitter
-      url: #
+      url: //twitter.com/kerobinso
     - title: facebook
-      url: #
+      url: //facebook.com/karenerobinson
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Thomas Garner
+  pic: 7b750a5d0b7873c1ce8fadbbff6910d4
+  position: The Other One
   social:
     - title: twitter
-      url: #
+      url: //twitter.com/thomas536
     - title: facebook
-      url: #
+      url: //facebook.com/thomas536
     - title: linkedin
-      url: #
+      url: //linkedin.com/in/thomas536
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: google-plus, flickr, dribbble pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/tkwedding
   - title: facebook
-    url:
+    url: http://facebook.com/tkwedding
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://stackoverflow.com/questions/tagged/tkwedding
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/tkwedding
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 28 Devonshire Ave Apt D
+  - line: Mountain View, CA 94043
 
 # Build settings
 markdown: kramdown
