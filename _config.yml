@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Karen E. Robinson
-  pic: IMG_20170528_164420_square
+  pic: IMG_20170528_164420_256x256.jpg
   position: The Smart One
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Thomas Garner
-  pic: 7b750a5d0b7873c1ce8fadbbff6910d4
+  pic: 7b750a5d0b7873c1ce8fadbbff6910d4.jpg
   position: The Nice One
   social:
     - title: twitter
