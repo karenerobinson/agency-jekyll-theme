@@ -1,10 +1,10 @@
-url: https://thomas536.github.io
-baseurl: /agency-jekyll-theme
+url: http://thomasandkaren.us
+baseurl: ''
 
 # Site settings
 title: '#TKWedding'
 email: tk@thomasandkaren.us
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Thomas and Karen's Wedding 2017"
 
 
 # Team names, titles and social links
@@ -17,8 +17,8 @@ people:
       url: //twitter.com/kerobinso
     - title: facebook
       url: //facebook.com/karenerobinson
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: //linkedin.com/in/karenerobinson
 
 - name: Thomas Garner
   pic: 7b750a5d0b7873c1ce8fadbbff6910d4.jpg
@@ -33,18 +33,19 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/tkwedding
-  - title: facebook
-    url: http://facebook.com/tkwedding
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/tkwedding
+  #- title: twitter
+  #  url: http://twitter.com/tkwedding
+  #- title: facebook
+  #  url: http://facebook.com/tkwedding
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/tkwedding
+  - title: tumblr
+    url: //beakerdog.tumblr.com/
   - title: github
-    url: http://github.com/tkwedding
+    url: //github.com/thomas536/agency-jekyll-theme
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 28 Devonshire Ave Apt D
   - line: Mountain View, CA 94043
 
 # Build settings
